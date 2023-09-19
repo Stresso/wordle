@@ -5,7 +5,7 @@ from nltk.corpus import words # nltk words is to get five letter words
 st.title("Wordle ResCLUEr") # this is the title of the app
 
 # this is to display the image of wordle game
-st.image("https://www.dexerto.com/wp-content/uploads/2022/01/08/wordle-tweets.jpg.webp")
+st.image("https://akm-img-a-in.tosshub.com/businesstoday/images/story/202201/wordle_og_1200x630-sixteen_nine.png?size=948:533")
 
 # download the english words dictionary 
 
