@@ -65,4 +65,6 @@ for word in five_letters:
 # print the output list of clues
 
 st.write(clue_result) 
+
+st.title("Project by Maaz Abdul Munaf and Tushar Pai")
   
